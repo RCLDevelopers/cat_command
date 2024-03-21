@@ -17,5 +17,5 @@ Example
 
 ## Author Name
 
-[Alexander Monterrosa](https://github.com/Alex108-lab)
+[Zangtics Digital](https://zangticsdigital.com/)
 
